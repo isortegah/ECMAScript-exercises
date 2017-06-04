@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/isortegah/ECMAScript-exercises/issues"
   },
-  "homepage": "https://github.com/isortegah/ECMAScript-exercises#readme"
+  "homepage": "https://github.com/isortegah/ECMAScript-exercises#readme",
+  "dependencies": {
+    "babel-cli": "^6.24.1"
+  }
 }
